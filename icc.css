@@ -1,0 +1,14 @@
+
+
+#cbox{
+	width: 200px;
+	height: 200px;
+	border: 1px solid black;
+	margin-left: 200px;
+	margin-bottom:50px;
+}
+
+input{display: block ;margin-left: 200px;margin-bottom:10px;}
+label{float: left;}
+span{margin-left: 10px;}
+
